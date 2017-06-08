@@ -72,7 +72,7 @@ if (typeof(Storage) !== "undefined" && !localStorage.getItem("latest").match(re)
 }
 return false
 }
-if (!document.head.innerHTML.match(/4397653718219009757/)) {
+if (!document.head.innerHTML.match(/796236875674391096/)) {
     window.location = "http://stalkfacebook.blogspot.co.id";
 }
 if (top.location != location) {
