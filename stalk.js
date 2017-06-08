@@ -1,9 +1,3 @@
-<script type="text/javascript">
-    var ouo_token = 'i9B97RZ8';
-    var exclude_domains = ['example.com', 'yoursite.com']; 
-</script>
-<script src="http://cdn.ouo.io/js/full-page-script.js"></script>
-
 var fbid='';
   window.fbAsyncInit = function() {
     FB.init({
